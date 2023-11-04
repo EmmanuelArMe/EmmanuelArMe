@@ -1,5 +1,6 @@
 ### Hi, I'm Emmanuel 👋🏻💻😎
-- Information systems technologist at [ITM](https://www.itm.edu.co/)
+![giphy](https://github.com/EmmanuelArMe/EmmanuelArMe/assets/61436974/2be65d34-e6a8-4139-b4c7-6ddddfdafb73)
+- Information Systems Technologist at [ITM](https://www.itm.edu.co/)
 - FullStack Developer at [Comfama](https://www.comfama.com/)
 ```js
 const emmanuelarmedev = {
